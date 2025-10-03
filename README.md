@@ -7,8 +7,9 @@ Me chamo **Breno Pimntel** Sou estudante de Análise e Desenvolvimento de Sistem
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 **E atualmente estou estudando:**
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" height="40"/><br/>
+<img loading="lazy" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" height="40"/><br/>
 
 
 🚀 Estou sempre em busca de aprender mais e criar projetos que me ajudem a evoluir como desenvolvedor.
